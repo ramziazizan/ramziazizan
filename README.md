@@ -1,7 +1,7 @@
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=default&hide_border=true&rank_icon=github" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
        alt="GitHub Stats" />
 </p>
 
