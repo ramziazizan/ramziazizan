@@ -12,7 +12,7 @@
        alt="Top Languages" />
 </p>
 
-### Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
+Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ### 🏆 Pencapaian dan Trofi GitHub Saya
 
