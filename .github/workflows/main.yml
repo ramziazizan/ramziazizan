@@ -1,0 +1,26 @@
+name: Generate Pac-Man Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+      id-token: write 
+      pages: write    
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat: Update Pac-Man SVG"
+          file_pattern: 'dist/pacman-contribution-graph*.svg' 
+          token: ${{ secrets.GITHUB_TOKEN }}
