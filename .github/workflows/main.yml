@@ -9,6 +9,8 @@ jobs:
   generate:
     permissions:
       contents: write
+      id-token: write # Tambahan Izin
+      pages: write    # Tambahan Izin
     runs-on: ubuntu-latest
     steps:
       # Langkah 1: Checkout branch main
