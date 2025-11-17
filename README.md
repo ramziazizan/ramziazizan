@@ -1,4 +1,16 @@
-![Pac-Man Animation](https://ramziazizan.github.io/ramziazizan/dist/pacman-contribution-graph-light.svg)
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=default&hide_border=true&rank_icon=github" 
+       alt="GitHub Stats" />
+</p>
+
+### 💻 Bahasa Pemrograman Favorit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=8&theme=default&hide_border=true" 
+       alt="Top Languages" />
+</p>
 
 ---
 
