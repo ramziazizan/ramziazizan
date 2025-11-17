@@ -5,11 +5,10 @@ on:
     # Menjalankan setiap 24 jam (pukul 00:00 UTC)
     - cron: "0 0 * * *" 
   workflow_dispatch:
-
 jobs:
   generate:
     permissions:
-      contents: write
+      contents: write # PASTIKAN BARIS INI ADA
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
