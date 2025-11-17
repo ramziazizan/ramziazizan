@@ -24,6 +24,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "feat: Update Pac-Man SVG"
-          # Menyimpan file SVG ke folder /assets/pacman di branch utama
-          file_pattern: 'dist/pacman-contribution-graph*.svg'
+        commit_message: "feat: Update Pac-Man SVG"
+        file_pattern: 'dist/pacman-contribution-graph*.svg' 
+    # BARIS INI YANG HARUS DITAMBAHKAN/DIPASTIKAN ADA
+        token: ${{ secrets.GITHUB_TOKEN }}
