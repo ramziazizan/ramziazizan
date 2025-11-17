@@ -12,6 +12,8 @@
        alt="Top Languages" />
 </p>
 
+Halo! Selamat datang di profil GitHub saya. Saya Ramzi Azizan, dan saya merupakan salah satu Mahasiswa dari Prodi Ilmu Komputer Fakultas Sains & Teknologi UIN Sumatera Utara, Saya adalah Pengembang Pemula yang bersemangat dalam mempelajari serta memahami setiap praktik mengulik kode.
+
 ### 🏆 Pencapaian dan Trofi GitHub Saya
 
 <p align="center">
@@ -20,5 +22,3 @@
 </p>
 
 ---
-
-Halo! Selamat datang di profil GitHub saya. Saya Ramzi Azizan, dan saya merupakan salah satu Mahasiswa dari Prodi Ilmu Komputer Fakultas Sains & Teknologi UIN Sumatera Utara, Saya adalah Pengembang Pemula yang bersemangat dalam mempelajari serta memahami setiap praktik mengulik kode.
