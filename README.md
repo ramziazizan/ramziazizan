@@ -1,8 +1,6 @@
 ### Aktivitas GitHub Saya yang Menarik (Pac-Man Contribution Graph)
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph-light.svg" alt="Pac-Man Contribution Graph"/>
-</p>
+
+<img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph-light.svg" alt="Pac-Man Contribution Graph"/>
 
 ---
 
