@@ -21,4 +21,11 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
        alt="Ramzi Azizan GitHub Trophies" />
 </p>
 
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramziazizan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramziazzn12@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramziazizann)
+</p>
+
 ---
