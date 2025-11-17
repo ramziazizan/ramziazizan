@@ -1,6 +1,6 @@
-### Pac-Man Contribution Graph
+### Pac-Man Contribution Graph (Final Attempt URL)
 
-![Pac-Man Animation](https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/dist/pacman-contribution-graph-light.svg)
+![Pac-Man Animation](https://ramziazizan.github.io/ramziazizan/dist/pacman-contribution-graph-light.svg)
 
 ---
 
