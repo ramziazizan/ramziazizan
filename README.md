@@ -47,7 +47,8 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 ### 👁️‍🗨️ Pengunjung Profil
 
 <p align="center">
-  <img src="https://hits.seeyou.tech/ร์&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count"/>
+  <img src="https://hits.seeyou.tech/ramziazizan/ramziazizan.svg?style=flat-square&color=007AFF&label=Profile%20Views" 
+       alt="Visitor Count"/>
 </p>
 
 ---
