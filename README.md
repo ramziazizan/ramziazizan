@@ -13,14 +13,14 @@
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=default&hide_border=true&rank_icon=github&bg_color=00000000" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&bg_color=00000000" 
        alt="GitHub Stats" />
 </p>
 
 ### 💻 Bahasa Pemrograman Favorit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000" 
        alt="Top Languages" />
 </p>
 
@@ -29,7 +29,7 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 ### 🏆 Pencapaian dan Trofi GitHub Saya
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramziazizan&theme=dracula&no-frame=true&no-bg=true" 
+  <img src="https://github-profile-trophy.vercel.app/?username=ramziazizan&theme=flat&no-frame=true&no-bg=true" 
        alt="Ramzi Azizan GitHub Trophies" />
 </p>
 
