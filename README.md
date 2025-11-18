@@ -29,7 +29,7 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 ### 🏆 Pencapaian dan Trofi GitHub Saya
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramziazizan&theme=flat&no-frame=true&no-bg=true" 
+  <img src="https://github-profile-trophy.vercel.app/?username=ramziazizan&theme=transparent&no-frame=true&no-bg=true" 
        alt="Ramzi Azizan GitHub Trophies" />
 </p>
 
