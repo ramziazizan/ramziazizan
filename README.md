@@ -40,4 +40,14 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramziazizann)
 </p>
 
+### 👁️‍🗨️ Pengunjung Profil
+
+<p align="center">
+  <img src="https://hits.seeyou.tech/ร์&label=Profile%20Views&color=007AFF&style=flat-square" alt="Visitor Count"/>
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=25&duration=2000&pause=500&color=007AFF&center=true&vCenter=true&width=500&height=50&lines=Let's+Connect!;Get+in+Touch!;Find+Me+Here!" alt="Connect Call to Action"/>
+</p>
