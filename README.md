@@ -1,7 +1,7 @@
 <h1 align="center">✨ WELCOME TO ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Ramzi+Azizan" alt="Name Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=900&height=100&lines=Ramzi+Azizan" alt="Name Header"/>
   <br/>
   
   <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
