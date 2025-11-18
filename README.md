@@ -1,4 +1,4 @@
-<h1 align="center">✨ WELCOME TO ✨</h1>
+<h1 align="center">✨ WELCOME TO MY PAGE✨</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=900&height=100&lines=Ramzi+Azizan" alt="Name Header"/>
