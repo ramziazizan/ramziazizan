@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ WELCOME TO MY PAGE✨
+  <img src="https://img.shields.io/badge/-Ramzi%20Azizan%20|%20Digital%20Workspace-007AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="Ramzi Azizan Header"/>
 </h1>
 
 <div align="center">
