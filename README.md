@@ -19,6 +19,13 @@
        alt="GitHub Stats" />
 </p>
 
+### 💻 Bahasa Pemrograman Favorit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=10&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true"
+       alt="Top Languages" />
+</p>
+
 Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ### 🌐 Connect With Me
