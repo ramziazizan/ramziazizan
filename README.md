@@ -12,6 +12,20 @@
 
 ---
 
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&bg_color=00000000&cache_seconds=3600&line_height=25" 
+       alt="GitHub Stats" />
+</p>
+
+### 💻 Bahasa Pemrograman Favorit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=10&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&cache_seconds=3600"
+       alt="Top Languages" />
+</p>
+
 Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ### 🌐 Connect With Me
@@ -26,17 +40,3 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 </p>
 
 ---
-
-### 📊 Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&bg_color=00000000" 
-       alt="GitHub Stats" />
-</p>
-
-### 💻 Bahasa Pemrograman Favorit
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=10&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true"
-       alt="Top Languages" />
-</p>
