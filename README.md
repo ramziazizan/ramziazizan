@@ -15,14 +15,16 @@
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&bg_color=00000000&cache_seconds=3600&line_height=25" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ramziazizan&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=00000000&cache_seconds=3600&line_height=30" 
        alt="GitHub Stats" />
 </p>
+
+---
 
 ### 💻 Bahasa Pemrograman Favorit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=10&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&cache_seconds=3600"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&cache_seconds=3600&border_radius=10"
        alt="Top Languages" />
 </p>
 
