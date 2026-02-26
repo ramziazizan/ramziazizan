@@ -12,13 +12,6 @@
 
 ---
 
-### 🏆 Github Trophs
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramziazizan&theme=radical&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🔥 Stats Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramziazizan&theme=radical&hide_border=false&background=0D1117&border_radius=10" 
@@ -28,11 +21,6 @@
 ---
 
 ### 💻 Bahasa Pemrograman Favorit
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_radius=10"
-       alt="Top Languages" width="350" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_radius=10" 
