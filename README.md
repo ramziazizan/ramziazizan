@@ -35,7 +35,7 @@ Tools & Languages
 
 Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
-### 🌐 Connect With Me
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=25&duration=2000&pause=500&color=007AFF&center=true&vCenter=true&width=500&height=50&lines=Let's+Connect!;Get+in+Touch!;Find+Me+Here!" alt="Connect Call to Action"/>
