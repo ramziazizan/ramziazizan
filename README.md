@@ -41,3 +41,7 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramziazizan&label=Profil%20Dilihat&color=007AFF&style=flat" alt="Visitor Counter" />
+</p>
