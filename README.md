@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Teknologi & Alat
+Favorit Tools & Languages 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,tailwind,git,github,vscode,linux&perline=12" height="35" />
