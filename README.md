@@ -20,7 +20,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramziazizan&theme=radical&bg_color=0D1117&hide_border=false&area=true&color=007AFF" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
