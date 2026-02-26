@@ -40,8 +40,6 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
   <a href="https://www.instagram.com/ramziazizann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramziazizan&label=Profil%20Dilihat&color=007AFF&style=flat" alt="Visitor Counter" />
 </p>
