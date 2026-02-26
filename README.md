@@ -20,12 +20,7 @@
 
 ---
 
-### 💻 Bahasa Pemrograman Favorit
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_radius=10" 
-       alt="Top Languages Alternative" width="350" />
-</p>
 
 ---
 
