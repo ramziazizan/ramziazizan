@@ -16,8 +16,8 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
-> "Kenapa programmer kalau kedinginan pakainya Java? Soalnya biar anget, kan ada kopinya. Hehe." ☕
-> 
+"Kenapa programmer kalau kedinginan pakainya Java? Soalnya biar anget, kan ada kopinya. Hehe." ☕
+
 > — *Ramzi, 2024*
 
 ---
