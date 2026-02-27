@@ -16,9 +16,9 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-joke.vercel.app/?theme=radical&bg_color=0D1117" alt="Jokes" />
-</p>
+> "Kenapa programmer kalau kedinginan pakainya Java? Soalnya biar anget, kan ada kopinya. Hehe." ☕
+> 
+> — *Ramzi, 2024*
 
 ---
 
