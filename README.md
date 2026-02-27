@@ -25,18 +25,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramziazizan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" width="350" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/details?username=ramziazizan&show_icons=true&theme=radical&bg_color=0D1117" width="400" />
-</p>
-
----
-
 Tools & Languages 
 
 <p align="center">
