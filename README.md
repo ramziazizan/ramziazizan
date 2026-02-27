@@ -12,6 +12,10 @@
 
 ---
 
+Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
+
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramziazizan&theme=radical&hide_border=false&background=0D1117&border_radius=10" 
        alt="GitHub Streak" width="400" />
@@ -30,10 +34,6 @@ Tools & Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,tailwind,git,github,vscode,linux&perline=12" height="35" />
 </p>
-
----
-
-Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ---
 
