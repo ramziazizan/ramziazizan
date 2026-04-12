@@ -29,14 +29,6 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
-Tools & Languages 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,tailwind,git,github,vscode,linux&perline=12" height="35" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=25&duration=2000&pause=500&color=007AFF&center=true&vCenter=true&width=500&height=50&lines=Let's+Connect!;Get+in+Touch!;Find+Me+Here!" alt="Connect Call to Action"/>
 </p>
