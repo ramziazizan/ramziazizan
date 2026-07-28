@@ -46,19 +46,15 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 -------
 
 <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/header.svg" width="100%" alt="Glass Banner">
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/about.svg" width="100%" alt="Glass About">
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/skills.svg" width="100%" alt="Glass Stack">
-
 <br/>
 
 <img src="https://ryme.md/api/render/glass-github-stats?u=ramziazizan&bg=020203&fg=22d3ee&accent=4c05c7&muted=f943a1&dur=8" width="100%" alt="Glass GitHub">
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/main/footer.svg" width="100%" alt="Glass Sign-off">
