@@ -18,7 +18,7 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramziazizan&theme=radical&hide_border=false&background=0D1117&border_radius=10" 
-       alt="GitHub Streak" width="400" />
+       alt="GitHub Streak" width="400"/>
 </p>
 
 ---
