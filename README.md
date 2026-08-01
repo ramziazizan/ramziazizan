@@ -36,3 +36,12 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
   <img src="https://komarev.com/ghpvc/?username=ramziazizan&label=Profil%20Dilihat&color=007AFF&style=flat" alt="Visitor Counter" />
 </p>
 
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
