@@ -15,7 +15,6 @@
 Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ---
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
@@ -23,7 +22,6 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 ---
 
 <p align="center">
