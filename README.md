@@ -16,6 +16,16 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramziazizan&theme=radical&bg_color=0D1117&hide_border=false&area=true&color=007AFF" width="100%" alt="Activity Graph" />
 </p>
@@ -37,11 +47,3 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 </p>
 
 ---
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
