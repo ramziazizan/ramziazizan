@@ -30,17 +30,6 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramziazizan&theme=radical&bg_color=0D1117&hide_border=false&area=true&color=007AFF" width="100%" alt="Activity Graph" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
