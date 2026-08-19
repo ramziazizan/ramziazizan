@@ -8,6 +8,9 @@
 
 ---
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently majoring in Computer Science at the Faculty of Science and Technology, UIN Sumatera Utara. I am an aspiring Developer who is passionate about learning and mastering coding practices and diving deep into code.
 
 ---
