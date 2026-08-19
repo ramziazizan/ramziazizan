@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/-Ramzi%20Azizan%20|%20Digital%20Workspace-007AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="Ramzi Azizan Header"/>
-</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=900&height=100&lines=WELCOME+TO+MY+PAGE" alt="Name Header"/>
   <br/>
