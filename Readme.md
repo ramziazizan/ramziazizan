@@ -16,11 +16,19 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+  </picture>
+</p>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kejaatry/zeative/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
