@@ -16,19 +16,11 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
 
 ---
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-  </picture>
-</div>
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   </picture>
 </div>
 
