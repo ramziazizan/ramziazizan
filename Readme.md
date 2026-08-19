@@ -28,6 +28,11 @@ Hello! Welcome to my GitHub profile. I'm Ramzi Azizan, a student currently major
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramziazizan&theme=radical&bg_color=0D1117&hide_border=false&area=true&color=007AFF" width="100%" alt="Activity Graph" />
 </p>
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ramziazizan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ramziazizan/ramziazizan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ---
 
 <p align="center">
